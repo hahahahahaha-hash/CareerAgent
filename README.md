@@ -12,6 +12,16 @@ CareerAgent 是一个面向求职场景的 AI Agent 应用，旨在帮助求职�
 - 前端：Vue 3 + TypeScript + Vite + Element Plus + Axios
 
 ---
+<details>
+<summary> 🎬 项目展示 👈（点击展开查看截图）</summary>
+
+<br>
+
+![项目截图](./assets/show1.png)
+![项目截图](./assets/show2.png)
+![项目截图](./assets/show3.png)
+
+</details>
 
 ## ✨ 核心功能
 
